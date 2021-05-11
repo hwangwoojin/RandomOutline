@@ -4,7 +4,7 @@ Data Augmentation with Random Outline Processing
 
 ## About
 
-![](image/1) ![](image/2)
+![](image/1.png) ![](image/2.png)
 
 Fill outline with random color with parameter `p`. Bigger `p`, Larger outline size.
 
