@@ -8,7 +8,9 @@ Data Augmentation with Random Outline Processing
 
 Fill outline with random color with parameter `p`. Bigger `p`, Larger outline size.
 
-trained models are [here](model/)
+Trained models are [here](model/).
+
+All jupyter notebook codes are [here](ipynb/notebook.ipynb)
 
 ## import
 
